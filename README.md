@@ -8,7 +8,7 @@ Invoice Management Application Using Dart language and Flutter Framework Clean U
 
 ### Getting Started
 
-1. `git clone https://github.com/om-chauhan/Invoice-Management-System-Flutter-UI.git`
+1. `git clone https://github.com/crazedRomeo/Flutter_InvoiceManagement.git`
 
 2. `flutter pub get`
 
@@ -35,7 +35,3 @@ Invoice Management Application Using Dart language and Flutter Framework Clean U
 <!-- | Add GST                                     |     |     |
 | ------------------------------------------- | --- | --- |
 | ![Add GST](/assets/screenshots/add-gst.jpg) |     |     | -->
-
-## Licence
-
-[MIT Licence](https://raw.githubusercontent.com/om-chauhan/Invoice-Management-System-Flutter-UI/master/LICENCE)
